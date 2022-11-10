@@ -1,4 +1,4 @@
-## B's GitHub Profile
+## BGM's GitHub Profile
 
 <details open>
   <summary><strong>RVGL</strong></summary>
