@@ -44,7 +44,7 @@ Hi there, welcome to my GitHub profile! Here is where I upload and maintain most
   <summary>Minecraft</summary>
   <div>
     I used to work on Minecraft plugins a couple of years ago, and was around to maintain some repositories and keep them up on my Maven
-    repository. I'm planning on reviving some of my work soon, and probably factor out some things into standalone repositories. Stick 
+    repo. I'm planning on reviving some of my work soon, and probably factor out some things into standalone projects. Stick 
     around if you feel like!
   </div>
   
