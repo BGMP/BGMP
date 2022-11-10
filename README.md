@@ -1,7 +1,5 @@
 ## B's GitHub Profile
 
-Hi there, welcome to my GitHub profile! Here is where I upload and maintain most of my open-source work.
-
 <details open>
   <summary><strong>RVGL</strong></summary>
   As of early 2022 I'm working on RVGL, the OpenGL port of
