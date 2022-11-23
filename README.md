@@ -1,5 +1,3 @@
-## BGM's GitHub Profile
-
 <details>
   <summary><strong>RVGL</strong></summary>
   As of early 2022 I'm working on RVGL, the OpenGL port of
