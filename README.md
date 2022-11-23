@@ -1,3 +1,79 @@
+BGM
+---
+
+<details>
+  <summary>Socials</summary>
+  <ul>
+    <li><a href="https://gitlab.com/BGMP">GitLab</a></li>
+    <li><a href="https://crowdin.com/profile/BGM">Crowdin</a></li>
+    <li><a href="https://www.youtube.com/@BGM_">YouTube</li>
+    <li><a href="mailto:jose@bgm.cl"</a>Email</li>
+  </ul>
+</details>
+
+Programming
+---
+<details>
+  <summary><strong>Languages</strong></summary>
+  <ul>
+    <li><a href="https://www.cprogramming.com">C/C++</a>
+      <details>
+        <summary>Tools</summary>
+        <ul>
+          <li><a href="https://www.gnu.org/software/make">Make</a></li>
+          <li><a href="https://cmake.org">CMake</a></li>
+        </ul>
+      </details>
+    </li>
+    </li>
+    <li><a href="https://www.java.com">Java</a>
+      <details>
+        <summary>Tools</summary>
+        <ul>
+          <li><a href="https://maven.apache.org">Maven</a></li>
+          <li><a href="https://gradle.org/">Gradle</a></li>
+          <li><a href="https://github.com/google/guice">Guice</a></li>
+          <li><a href="https://projectlombok.org">Lombok</a></li>
+          <li><a href="https://dev.bukkit.org/">Bukkit</a></li>
+        </ul>
+      </details>
+    </li>
+    <li><a href="https://www.ruby-lang.org">Ruby</a>
+      <details>
+        <summary>Tools</summary>
+          <ul>
+            <li><a href="https://ruby.github.io/rake/">Rake</a></li>
+            <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
+            <li><a href="https://jekyllrb.com/">Jekyll</a></li>
+            <li><a href="https://github.com/discordrb/discordrb">discordrb</a></li>
+          </ul>
+        </details>
+    </li>
+    <li><a href="https://www.python.org/">Python</a>
+       <details>
+         <summary>Tools</summary>
+         <ul>
+           <li><a href="https://www.wxpython.org/">wxPython</a></li>
+           <li><a href="https://pyinstaller.org/en/stable">PyInstaller</a></li>
+         </ul>
+      </details>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>Other Stuffs</strong></summary>
+  <ul>
+    <li><a href="https://git-scm.com/">Git</a></li>
+    <li><a href="https://maven.apache.org/">Maven</a></li>
+    <li><a href="https://www.mysql.com/">MySQL</a></li>
+    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
+  </ul>    
+</details>
+
+Projects
+---
+
 <details>
   <summary><strong>RVGL</strong></summary>
   As of early 2022 I'm working on RVGL, the OpenGL port of
