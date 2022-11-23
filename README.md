@@ -2,7 +2,7 @@ BGM
 ---
 
 <details>
-  <summary>Socials</summary>
+  <summary>Find me</summary>
   <ul>
     <li><a href="https://gitlab.com/BGMP">GitLab</a></li>
     <li><a href="https://crowdin.com/profile/BGM">Crowdin</a></li>
