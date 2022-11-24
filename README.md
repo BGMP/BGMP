@@ -8,6 +8,7 @@ BGM
     <li><a href="https://crowdin.com/profile/BGM">Crowdin</a></li>
     <li><a href="https://www.youtube.com/@BGM_">YouTube</li>
     <li><a href="mailto:jose@bgm.cl"</a>Email</li>
+    <li><a rel="me" href="https://fosstodon.org/@BGM">Mastodon</a></li>
   </ul>
 </details>
 
