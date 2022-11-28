@@ -123,7 +123,7 @@ Projects
   </div>
   
   <div align="center">
-    <a href="https://minecraft.net/">
+    <a href="https://bukkit.org/">
       <img width="150" height="150" src="http://i.imgur.com/igYbvzR.png" />
     </a>
   </div>
