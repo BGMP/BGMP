@@ -93,10 +93,11 @@ Projects
   <details>
     <summary>Resources</summary>
     <ul>
-      <li>Re-Volt I/O (https://re-volt.io/).</li>
+      <li>RVGL Forums (https://forum.rvgl.org/)<li>
       <li>Re-Volt America (https://rva.lat/).</li>
-      <li>Re-Volt World (https://www.revoltworld.net/).</li>
       <li>Re-Volt Race (https://www.revoltrace.net/).</li>
+      <li>Re-Volt World (https://www.revoltworld.net/).</li>
+      <li>Re-Volt I/O (https://re-volt.io/).</li>
       <li>Re-Volt Zone (http://revoltzone.net/).</li>
     </ul>
    </details>
