@@ -56,6 +56,7 @@ Programming
          <ul>
            <li><a href="https://www.wxpython.org/">wxPython</a></li>
            <li><a href="https://pyinstaller.org/en/stable">PyInstaller</a></li>
+           <li><a href="https://requests.readthedocs.io/en/latest/">Requests</a></li>
          </ul>
       </details>
     </li>
