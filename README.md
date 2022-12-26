@@ -43,6 +43,7 @@ Programming
         <summary>Tools</summary>
           <ul>
             <li><a href="https://ruby.github.io/rake/">Rake</a></li>
+            <li><a href="https://capistranorb.com/">Capistrano</a></li>
             <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
             <li><a href="https://jekyllrb.com/">Jekyll</a></li>
             <li><a href="https://github.com/discordrb/discordrb">discordrb</a></li>
@@ -65,9 +66,11 @@ Programming
   <summary><strong>Other Stuffs</strong></summary>
   <ul>
     <li><a href="https://git-scm.com/">Git</a></li>
-    <li><a href="https://maven.apache.org/">Maven</a></li>
     <li><a href="https://www.mysql.com/">MySQL</a></li>
     <li><a href="https://www.mongodb.com/">MongoDB</a></li>
+    <li><a href="https://security.appspot.com/vsftpd.html"</a></li>
+    <li><a href="https://haml.info/">Haml</a></li>
+    <li><a href="https://github.com/staticmatic/staticmatic">StaticMatic</a></li>
   </ul>    
 </details>
 
