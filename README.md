@@ -1,6 +1,5 @@
 BGM
 ---
-<a rel="me" href="https://fosstodon.org/@BGM">Mastodon</a>
 <details>
   <summary>Find me</summary>
   <ul>
