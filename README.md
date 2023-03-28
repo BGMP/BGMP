@@ -8,6 +8,7 @@ BGM
     <li><a href="https://www.youtube.com/@Re-Volt">YouTube</li>
     <li><a href="mailto:jose@bgm.cl"</a>Email</li>
     <li><a rel="me" href="https://fosstodon.org/@BGM">Mastodon</a></li>
+    <li><a href="https://namemc.com/profile/BGMP">NameMC</a></li>
   </ul>
 </details>
 
