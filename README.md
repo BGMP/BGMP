@@ -13,7 +13,7 @@ BGM
 
 Programming
 ---
-<details open>
+<details>
   <summary><strong>Languages</strong></summary>
   <ul>
     <li><a href="https://www.cprogramming.com">C/C++</a>
