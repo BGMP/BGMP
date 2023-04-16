@@ -78,7 +78,7 @@ Programming
 Projects
 ---
 
-<details open>
+<details>
   <summary><strong>RVGL</strong></summary>
   As of early 2022 I'm working on RVGL, the OpenGL port of
   <a href="https://en.wikipedia.org/wiki/Re-Volt" title="Wikipedia Page">Re-Volt 1999</a>. I'm part of the core maintainer team for the project
