@@ -4,7 +4,7 @@ BGM
   <summary>Find me</summary>
   <ul>
     <li><a href="https://gitlab.com/BGMP">GitLab</a></li>
-    <li><a href="https://www.youtube.com/@Re-Volt">YouTube</li>
+    <li><a href="https://www.youtube.com/@BGMP0">YouTube</li>
     <li><a rel="me" href="https://fosstodon.org/@BGM">Mastodon</a></li>
     <li><a href="https://crowdin.com/profile/BGM">Crowdin</a></li>
     <li><a href="https://namemc.com/profile/BGMP">NameMC</a></li>
