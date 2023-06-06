@@ -4,10 +4,11 @@ BGM
   <summary>Find me</summary>
   <ul>
     <li><a href="https://gitlab.com/BGMP">GitLab</a></li>
-    <li><a href="https://www.youtube.com/@BGMP0">YouTube</li>
-    <li><a rel="me" href="https://fosstodon.org/@BGM">Mastodon</a></li>
+    <li><a href="https://www.youtube.com/@bgmdev">YouTube</li>
     <li><a href="https://crowdin.com/profile/BGM">Crowdin</a></li>
     <li><a href="https://namemc.com/profile/BGMP">NameMC</a></li>
+    <li><a rel="me" href="https://fosstodon.org/@BGM">fosstodon.org</a></li>
+    <li><a rel="me" href="https://mastodon.cl/@B">mastodon.cl</a></li>
   </ul>
 </details>
 
@@ -96,7 +97,7 @@ Projects
   <details>
     <summary>Resources</summary>
     <ul>
-      <li>RVGL Forums (https://forum.rvgl.org/)</li>
+      <li>RVGL Forums (https://forum.rvgl.org/).</li>
       <li>Re-Volt America (https://rva.lat/).</li>
       <li>Re-Volt Race (https://www.revoltrace.net/).</li>
       <li>Re-Volt World (https://www.revoltworld.net/).</li>
