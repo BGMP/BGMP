@@ -8,8 +8,8 @@ BGM
     <li><a href="https://crowdin.com/profile/BGM">Crowdin</a></li>
     <li><a href="https://namemc.com/profile/BGMP">NameMC</a></li>
     <li><a href="https://dev.to/bgm">dev.to</a></li>
+    <li><a href="https://cohost.org/bgm">cohost.org</a>
     <li><a rel="me" href="https://fosstodon.org/@BGM">fosstodon.org</a></li>
-    <li><a rel="me" href="https://mastodon.cl/@B">mastodon.cl</a></li>
   </ul>
 </details>
 
