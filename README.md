@@ -5,10 +5,10 @@ BGM
   <ul>
     <li><a href="https://gitlab.com/BGMP">GitLab</a></li>
     <li><a href="https://www.youtube.com/@bgmdev">YouTube</li>
-    <li><a href="https://crowdin.com/profile/BGM">Crowdin</a></li>
     <li><a href="https://namemc.com/profile/BGMP">NameMC</a></li>
-    <li><a href="https://dev.to/bgm">dev.to</a></li>
-    <li><a href="https://cohost.org/bgm">cohost.org</a>
+    <li><a href="https://crowdin.com/profile/BGM">Crowdin</a></li>
+    <li><a href="https://dev.to/BGM">dev.to</a></li>
+    <li><a href="https://cohost.org/BGM">cohost.org</a>
     <li><a rel="me" href="https://fosstodon.org/@BGM">fosstodon.org</a></li>
   </ul>
 </details>
