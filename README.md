@@ -140,7 +140,7 @@ Projects
     <ul>
       <li>Unicraft Network (https://github.com/UnicraftNetwork/Network).</li>
       <li>CommandFramework (https://github.com/BGMP/CommandFramework).</li>
-      <li>BUtils (https://github.com/BGMP/BUtils).</li>
+      <li>Staff (https://github.com/BGMP/Staff).</li>
     </ul>
   </details>
 
