@@ -69,7 +69,7 @@ Programming
     <li><a href="https://www.mongodb.com/">MongoDB</a></li>
     <li><a href="https://security.appspot.com/vsftpd.html"</a>vsftpd</li>
     <li><a href="https://haml.info/">Haml</a></li>
-    <li><a href="https://github.com/staticmatic/staticmatic">StaticMatic</a></li>
+    <li><a href="https://www.latex-project.org/">TeX</a></li>
   </ul>    
 </details>
 
