@@ -1,16 +1,11 @@
-BGM
+Welcome
 ---
-<details>
-  <summary>Find me</summary>
-  <ul>
-    <li><a href="https://gitlab.com/BGMP">GitLab</a></li>
-    <li><a href="https://www.youtube.com/@bgmdev">YouTube</li>
-    <li><a href="https://crowdin.com/profile/BGM">Crowdin</a></li>
-  </ul>
-</details>
+Hey there, welcome to my GitHub profile! I'm José Benavente, better known as BGM, and I'm a software developer from Chile who loves game engines from the 90's, localisation in development projects, and DevOps. I also enjoy building web applications the classic way!
 
-Programming
----
+<a href="https://github.com/BGMP" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/></a>
+<a href="https://www.youtube.com/@bgmdev" target="_blank"><img height="30" src="https://i.imgur.com/B5AutWa.png"/></a>
+<a href="https://crowdin.com/profile/BGM" target="_blank"><img height="30" src="https://github.com/BGMP/BGMP/assets/26081543/ebf2b262-331f-4230-bffe-eb7549d986dc"/></a>
+
 <details>
   <summary><strong>Languages</strong></summary>
   <ul>
@@ -79,7 +74,7 @@ Projects
 
 <details>
   <summary><strong>RVGL</strong></summary>
-  As of early 2022 I'm working on RVGL, the OpenGL port of
+  As of early 2022, I'm working on RVGL, the OpenGL port of
   <a href="https://en.wikipedia.org/wiki/Re-Volt" title="Wikipedia Page">Re-Volt 1999</a>. I'm part of the core maintainer team for the project
   and I also help building tools for deploying and distributing custom content made by its community.
   
@@ -95,12 +90,10 @@ Projects
   <details>
     <summary>Resources</summary>
     <ul>
-      <li>RVGL Forums (https://forum.rvgl.org/).</li>
-      <li>Re-Volt America (https://rva.lat/).</li>
-      <li>Re-Volt Race (https://www.revoltrace.net/).</li>
-      <li>Re-Volt World (https://www.revoltworld.net/).</li>
-      <li>Re-Volt I/O (https://re-volt.io/).</li>
-      <li>Re-Volt Zone (http://revoltzone.net/).</li>
+      <li>RVGL Forums (https://forum.rvgl.org).</li>
+      <li>Re-Volt America (https://rva.lat).</li>
+      <li>Re-Volt World (https://www.revoltworld.net).</li>
+      <li>Re-Volt I/O (https://re-volt.io).</li>
     </ul>
    </details>
   
@@ -108,8 +101,8 @@ Projects
     <summary>Repositories</summary>
     <ul>
       <li>RVGL Launcher (https://gitlab.com/re-volt/rvgl-launcher).</li>
+      <li>Re-Volt America (https://github.com/Re-Volt-America/RVA).</li>
       <li>RVA-Points (https://github.com/Re-Volt-America/RVA-Points).</li>
-      <li>Re-Volt America (https://github.com/Re-Volt-America/Website).</li>
     </ul>
   </details>
   
