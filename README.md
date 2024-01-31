@@ -62,7 +62,7 @@ Programming
 </details>
 
 <details>
-  <summary><strong>Other Stuffs</strong></summary>
+  <summary><strong>Technologies & Tools</strong></summary>
   <ul>
     <li><a href="https://git-scm.com/">Git</a></li>
     <li><a href="https://www.mysql.com/">MySQL</a></li>
