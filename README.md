@@ -1,11 +1,9 @@
-Welcome
+Welcome!
 ---
-Hey there, welcome to my GitHub profile! I'm José Benavente, better known as BGM, and I'm a software developer from Chile who loves game engines from the 90's, localisation in development projects, and DevOps. I also enjoy building web applications the classic way!
+Hey there, welcome to my GitHub profile! I'm José Benavente, better known as BGM, and I'm a software developer from Chile who loves game engines from the 90's, localisation in development projects, and DevOps. I also enjoy building web applications - the classic way.
 
-<a href="https://github.com/BGMP" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/></a>
-<a href="https://www.youtube.com/@bgmdev" target="_blank"><img height="30" src="https://i.imgur.com/B5AutWa.png"/></a>
-<a href="https://crowdin.com/profile/BGM" target="_blank"><img height="30" src="https://github.com/BGMP/BGMP/assets/26081543/ebf2b262-331f-4230-bffe-eb7549d986dc"/></a>
-
+What I do
+---
 <details>
   <summary><strong>Languages</strong></summary>
   <ul>
@@ -136,3 +134,9 @@ Projects
 
   <h2 dir="auto"></h2>
 </details>
+
+<h2>Find me</h2>
+
+<a href="https://github.com/BGMP" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/></a>
+<a href="https://www.youtube.com/@bgmdev" target="_blank"><img height="30" src="https://i.imgur.com/B5AutWa.png"/></a>
+<a href="https://crowdin.com/profile/BGM" target="_blank"><img height="30" src="https://github.com/BGMP/BGMP/assets/26081543/ebf2b262-331f-4230-bffe-eb7549d986dc"/></a>
