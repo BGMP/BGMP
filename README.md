@@ -1,6 +1,6 @@
 Welcome!
 ---
-Hey there, welcome to my GitHub profile! I'm José Benavente, better known as BGM, and I'm a software developer from Chile who loves game engines from the 90's, localisation in development projects, and DevOps. I also enjoy building web applications - the classic way.
+Hey there, welcome to my GitHub profile! I'm José Benavente, better known as BGM, and I'm a software developer from Chile. I'm into game engines from the 90's, localisation in development projects, and DevOps. I also enjoy building web applications - the classic way.
 
 What I do
 ---
