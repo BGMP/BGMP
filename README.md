@@ -2,6 +2,10 @@ Welcome!
 ---
 Hey there, welcome to my GitHub profile! I'm José Benavente, better known as BGM, and I'm a software developer from Chile. I'm into game engines from the 90's, localisation in development projects, and DevOps. I also enjoy building web applications - the classic way.
 
+What I'm working on
+---
+I'm a Senior Software Engineer at [Aukko](https://aukko.cl), where I build the data and AI side of a market intelligence platform for [Mercado Público](https://www.mercadopublico.cl) (ChileCompra), Chile's public procurement marketplace. Our clients are suppliers from industries like healthcare, food and technology.
+
 What I do
 ---
 <details>
@@ -71,7 +75,7 @@ Projects
 ---
 
 <details>
-  <summary><strong>RVGL</strong></summary>
+  <summary><strong>Re-Volt: OpenGL (https://rvgl.org/)</strong></summary>
   As of early 2022, I'm working on RVGL, the OpenGL port of
   <a href="https://en.wikipedia.org/wiki/Re-Volt" title="Wikipedia Page">Re-Volt 1999</a>. I'm part of the core maintainer team for the project
   and I also help building tools for deploying and distributing custom content made by its community.
@@ -106,37 +110,3 @@ Projects
   
   <h2 dir="auto"></h2>
 </details>
-
-<details>
-  <summary>Minecraft</summary>
-  <div>
-    I used to work on Minecraft plugins a couple of years ago, and was around to maintain some repositories and keep them up on my Maven
-    repo. I'm planning on reviving some of my work soon, and probably factor out some things into standalone projects. Stick 
-    around if you feel like!
-  </div>
-  
-  <div align="center">
-    <a href="https://bukkit.org/">
-      <img width="150" height="150" src="http://i.imgur.com/igYbvzR.png" />
-    </a>
-  </div>
-  
-  <br/>
-  
-  <details>
-    <summary>Repositories</summary>
-    <ul>
-      <li>Unicraft Network (https://github.com/UnicraftNetwork/Network).</li>
-      <li>CommandFramework (https://github.com/BGMP/CommandFramework).</li>
-      <li>Staff (https://github.com/BGMP/Staff).</li>
-    </ul>
-  </details>
-
-  <h2 dir="auto"></h2>
-</details>
-
-<h2>Find me</h2>
-
-<a href="https://gitlab.com/BGMP" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/></a>
-<a href="https://www.youtube.com/@bgmdev" target="_blank"><img height="30" src="https://i.imgur.com/B5AutWa.png"/></a>
-<a href="https://crowdin.com/profile/BGM" target="_blank"><img height="30" src="https://github.com/BGMP/BGMP/assets/26081543/ebf2b262-331f-4230-bffe-eb7549d986dc"/></a>
