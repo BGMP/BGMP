@@ -82,7 +82,7 @@ Projects
   
   <div align="center">
     <a href="https://rvgl.org/">
-      <img src="https://rvgl.org/imgs/rvgl_logo.png" />
+      <img src="https://github.com/user-attachments/assets/425a8a02-276c-4bd1-bbed-bd1c99676adf" />
     </a>
   </div>
   
