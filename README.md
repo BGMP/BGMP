@@ -4,7 +4,7 @@ Hey there, welcome to my GitHub profile! I'm José Benavente, better known as BG
 
 What I'm working on
 ---
-I'm a Senior Software Engineer at [Aukko](https://aukko.cl), where I build the data and AI side of a market intelligence platform for [Mercado Público](https://www.mercadopublico.cl) (ChileCompra), Chile's public procurement marketplace. Our clients are suppliers from industries like healthcare, food and technology.
+I'm a Senior Software Engineer at [Aukko](https://aukko.cl), where I build the data and AI side of a market intelligence platform for [Mercado Público](https://www.mercadopublico.cl) (ChileCompra), Chile's public procurement market. Our clients are suppliers from industries like healthcare, food and technology.
 
 What I do
 ---
